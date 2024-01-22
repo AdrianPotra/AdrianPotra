@@ -10,7 +10,7 @@ I started learning coding at university, with several languages throughout the s
 * ✉️  You can contact me at [adrianpotra@icloud.com](mailto:adrianpotra@icloud.com)
 * 🧠  I'm learning for AWS certifications, DevOps tools. As for the programming languages roadmap for 2024, it will be Python, TypeScript, brush up on my C++ and Java knowledge and if there is time, maybe another one like Swift, Kotlin
 * 🤝  I'm open to collaborating on Go projects, NetSuite projects
-* ⚡  My nickname (in german) at elementary school was ,,lachmaschine" , which means laughing machine, since I was laughing quite often with a colleague during some classes
+* ⚡ Fun fact: My nickname (in german) at elementary school was ,,lachmaschine" , which means laughing machine, since I was laughing quite often with a colleague during some classes (not the best thing to do, I know)
 
 ### Skills
 
